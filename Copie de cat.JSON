@@ -22,9 +22,9 @@
 
 "adsswitch details ": "1:admob 2:unity 3:applovin 0.auto",
 
-"adsSwitchInter": "2",
-"adsSwitchBanner": "2",
-"adsSwitchReward": "2",
+"adsSwitchInter": "1",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1",
 
 "counterRate": "10",
 "adscounter": "3"
